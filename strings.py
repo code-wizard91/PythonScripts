@@ -37,9 +37,11 @@ print(d['name']) #same method to reference dictionary
 print(d['age'])
 
 #below is a dictionary(f_dict)containing 2 keys that have nested dictionaries in them : corporate and general
-f_dict = {'corporate':{'mizan': 100,'john':200,'gary':300},'general':{'seema':'38722', 'shah':'32123121'}}
+f_dict = {'corporate':{'mizan': 100,'john':200,'gary':300,'hanity':'423543'},'general':{'seema':'38722', 'shah':'32123121'}}
 
-print(f_dict['corporate']['gary'])
+database_dict = {'usernames':{'Mizan':'guess123','katy':'orange123'},'names':{'hanse':'34234'}}
+
+print(database_dict['usernames']['Mizan'][::-1])
 print(f_dict['general']['seema'])
 
 
