@@ -11,3 +11,5 @@ nameEntered = 'tizan'
 
 print(name == 'mizan' and nameEntered == 'tizan')
 #all values are true..
+
+print(1==1 or 100==1) #or requires one of the statements to be true otherwise returns false
