@@ -10,3 +10,4 @@ name = 'mizan'
 nameEntered = 'tizan'
 
 print(name == 'mizan' and nameEntered == 'tizan')
+#all values are true
