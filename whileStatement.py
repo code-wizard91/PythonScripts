@@ -21,3 +21,28 @@ y = 0
 while y<10:
     print('y is currently',y)
     y += 1
+
+
+#next we explore break continue and pass
+
+#break, breaks out of a loop
+
+#continue goes to the top of the closes enclosing loop
+
+#pass does nothing at all
+
+z = 0
+
+while z<10:
+    print('z is currently ',z)
+    print('z is still less than 10, adding 1 to z')
+    z += 1
+
+    if z == 5:
+        print('Alert Memmory usage high!')
+    else:
+        print('continueing')
+        continue
+
+
+
