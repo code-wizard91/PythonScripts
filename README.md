@@ -1,2 +1,2 @@
 # PythonScripts
-I use this to create python tutorials and practice the fundamentals of the programming languages
+I use this resource to create python tutorials to teach others and practice the fundamentals of the programming languages.
