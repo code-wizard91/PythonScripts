@@ -46,3 +46,5 @@ while z<10:
 
 
 
+#if a statement that is being evaluated by a while loop is always true, an infinite loop will occur
+#always avoid this
